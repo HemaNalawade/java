@@ -6,11 +6,11 @@ class My{
 }
 
 class Hello{
-public static void main(String args[])
-{
-System.out.println("My First Program.....!");
+    public static void main(String args[])
+    {
+        System.out.println("My First Program.....!");
 
-My.display();
-}
+        My.display();
+     }
 
 }
