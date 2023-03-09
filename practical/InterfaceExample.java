@@ -30,7 +30,7 @@ class FootBall implements Sports{
 	   System.out.println("Event place "+place);
    }
 }
-class InterfaceExample{
+class InterfaceExample{//create Interface Example..
   public static void main(String args[]){
    FootBall b =new FootBall();
    b.homeTeam("Maharastra");
